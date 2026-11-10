@@ -2,6 +2,171 @@
 
 ## 2026-11-10
 
-Reviewed 0 papers, selected 0.
+Reviewed 621 papers, selected 23 (including 4 marked ⭐).
 
-> ⚠️ Search failed: the bioRxiv and PubMed MCP servers failed to connect (proxy 403), and direct calls to api.biorxiv.org and eutils.ncbi.nlm.nih.gov were blocked by the session's network policy (host not allowed). To fix, allow these hosts in the environment's network settings.
+Sources: bioRxiv + medRxiv preprints posted 2026-11-09 to 2026-11-10 (450 reviewed), PubMed articles from the last 7 days matching the editing query (171 reviewed).
+
+### ⭐ Core relevance
+
+- **Development of mitochondrial base editing technology and its application in animals**
+  - Authors: Fan Y, Wu X, Chen J
+  - Journal/Server: Acta Biochim Biophys Sin (Shanghai)
+  - DOI: 10.3724/abbs.2026192 (PMID 42993276)
+  - Summary: Review of recent mitochondrial base-editing technologies for correcting mtDNA mutations and their applications in animal models.
+  - Tag: ⭐ Core relevance (mitochondrial base editing, editor engineering, extremophile microbiology)
+
+- **Development of an Efficient and Precise TadA-based C-to-G Base Editor Mi-zCGBE**
+  - Authors: Zhou J, Liang X, Xiong Y et al.
+  - Journal/Server: Mol Ther
+  - DOI: 10.1016/j.ymthe.2026.10.031 (PMID 42995496)
+  - Summary: Engineered TadA-based C-to-G base editors (zCGBE, Mi-zCGBE) that aim to pair high efficiency with the low indel and off-target rates that limit APOBEC-based CGBEs.
+  - Tag: ⭐ Core relevance (mitochondrial base editing, editor engineering, extremophile microbiology)
+
+- **The chromatin context differently impacts prime editors and base editors and controls the fidelity and purity of base editing**
+  - Authors: Wang Q, Zittersteijn H, Wang X et al.
+  - Journal/Server: Mol Cell
+  - DOI: 10.1016/j.molcel.2026.10.012 (PMID 42976864)
+  - Summary: Using isogenic target sites with defined chromatin states, the study shows how chromatin environment differentially shapes efficiency, fidelity and product purity of prime versus base editing.
+  - Tag: ⭐ Core relevance (mitochondrial base editing, editor engineering, extremophile microbiology)
+
+- **Rational and computation-assisted engineering of a compact and efficient CRISPR-Cas12f genome editor**
+  - Authors: Liu J, Wang S, Wang B et al.
+  - Journal/Server: Mol Ther
+  - DOI: 10.1016/j.ymthe.2026.08.043 (PMID 42675860)
+  - Summary: Screening of 23 Cas12f orthologs identified PspCas12f1 and TcCas12f1 as active in human cells, followed by sgRNA scaffold and computation-guided protein engineering to boost activity of this ultracompact editor.
+  - Tag: ⭐ Core relevance (mitochondrial base editing, editor engineering, extremophile microbiology)
+
+### General gene-editing trend
+
+- **In Vivo CRISPR Base Editing of ANGPTL3 for Durable Lipid Lowering**
+  - Authors: Mizoguchi T, DeNizio JE, Chadwick AC et al.
+  - Journal/Server: Nature
+  - DOI: 10.1038/s41586-026-11233-9 (PMID 42994815)
+  - Summary: A single infusion of guide RNA and base-editor mRNA targeting ANGPTL3 is presented as a durable single-course lipid-lowering therapy.
+  - Tag: General gene-editing trend
+
+- **Precision recreation and multiplex stacking of disease-resistance alleles in tomato using optimized prime editing**
+  - Authors: Khadka N, Adero M, Gupta A et al.
+  - Journal/Server: Plant Cell
+  - DOI: 10.1093/plcell/koag336 (PMID 42987176)
+  - Summary: Optimized, multiplexable prime-editing systems for tomato were used to recreate and stack disease-resistance alleles.
+  - Tag: General gene-editing trend
+
+- **Prime editing enables drug-controllable T-cell therapies with clinical immunosuppression**
+  - Authors: Bandala-Sanchez E, Petley EV, Ramsay K et al.
+  - Journal/Server: Blood
+  - DOI: 10.1182/blood.2026033156 (PMID 42523019)
+  - Summary: Prime editing is used to make T-cell therapies selectively controllable by clinically used immunosuppressive drugs.
+  - Tag: General gene-editing trend
+
+- **Structural basis for dAMP specificity of the anti-phage deaminase KomA**
+  - Authors: Zhou J, Wang J, Horton JR et al.
+  - Journal/Server: J Biol Chem
+  - DOI: 10.1016/j.jbc.2026.113739 (PMID 42982190)
+  - Summary: Structures of the bacterial adenosine-deaminase homolog KomA explain its preference for dAMP over AMP in anti-phage defense.
+  - Tag: General gene-editing trend
+
+- **Engineering AP/Exo-Cas12 as an efficient toolbox for rice genome editing via integrated repair and exonuclease modules**
+  - Authors: Chai N, Zhang R, Li G et al.
+  - Journal/Server: J Integr Plant Biol
+  - DOI: 10.1111/jipb.70440 (PMID 42974960)
+  - Summary: A modular Cas12 toolbox combining AP-repair or exonuclease modules enables efficient multiplex editing and large deletions in rice.
+  - Tag: General gene-editing trend
+
+- **Optimization of AsCas12f1-mediated long-term gene repression**
+  - Authors: Sun Y, Li L, Wang X et al.
+  - Journal/Server: Mol Ther
+  - DOI: 10.1016/j.ymthe.2026.09.001 (PMID 42687383)
+  - Summary: Compact dAsCas12f1-based epigenome editors carrying histone and DNA methylation modulators were optimized for durable gene silencing.
+  - Tag: General gene-editing trend
+
+- **AI-enhanced CRISPR-Cas9 therapeutics: Advances in precision, safety, and delivery**
+  - Authors: Boretti A
+  - Journal/Server: Prog Biophys Mol Biol
+  - DOI: 10.1016/j.pbiomolbio.2026.101967 (PMID 42987985)
+  - Summary: Review of how AI improves guide RNA design, off-target prediction and delivery optimization for CRISPR-Cas9 therapeutics.
+  - Tag: General gene-editing trend
+
+- **Surface engineering of cell-derived particles for targeted delivery of genome editors**
+  - Authors: DeAgazio C, Singh A, Banskota S
+  - Journal/Server: Curr Opin Chem Biol
+  - DOI: 10.1016/j.cbpa.2026.102815 (PMID 42981775)
+  - Summary: Review of extracellular vesicles and virus-like particles, and how their surface engineering enables targeted genome-editor delivery.
+  - Tag: General gene-editing trend
+
+- **Recombinant Fusion of Polyglutamic Acid Enhances Cell-Penetrating Peptide-Mediated CRISPR-Cas9 Delivery**
+  - Authors: Sharma A, Seo Y, Park TS
+  - Journal/Server: CRISPR J
+  - DOI: 10.1177/25731599261497668 (PMID 42979959)
+  - Summary: Fusing polyglutamic acid to a cell-penetrating peptide improves non-viral delivery of Cas9 RNP into hard-to-transfect cells.
+  - Tag: General gene-editing trend
+
+- **Rational design of lipid nanoparticles for brain delivery of RNA therapeutics**
+  - Authors: Tian M, Wang L, Liu Z et al.
+  - Journal/Server: Nat Nanotechnol
+  - DOI: 10.1038/s41565-026-02326-7 (PMID 42977805)
+  - Summary: A hydroxyzine-based ionizable lipid scaffold yields LNPs with improved brain-targeted RNA delivery.
+  - Tag: General gene-editing trend
+
+- **Leveraging host-cell modulators of adeno-associated vector transduction to tailor viral biodistribution**
+  - Authors: Kubek-Luck K, Velazquez J, Yao X et al.
+  - Journal/Server: Mol Ther
+  - DOI: 10.1016/j.ymthe.2026.08.024 (PMID 42619262)
+  - Summary: Host-cell factors that mediate AAV transduction differ by serotype and can be modulated to tailor vector biodistribution.
+  - Tag: General gene-editing trend
+
+- **The DreAM-plus integrative RNA switch enhances transient AAV expression and reduces side effects of gene editing**
+  - Authors: Zhang Y, Yang Y, Liu Z et al.
+  - Journal/Server: Mol Ther
+  - DOI: 10.1016/j.ymthe.2026.08.006 (PMID 42576388)
+  - Summary: A drug-inducible multi-mechanism RNA switch limits AAV-delivered editor expression to reduce off-target effects and immunogenicity.
+  - Tag: General gene-editing trend
+
+- **Genotoxic safety and long-term engraftment dynamics of efficient translational CRISPR/Cas9 therapeutics for β-haemoglobinopathies from bench to clinical trials**
+  - Authors: Al-Subaie AM, Borgio JF
+  - Journal/Server: Gene Ther
+  - DOI: 10.1038/s41434-026-00656-8 (PMID 42977761)
+  - Summary: Review of genotoxic safety and long-term engraftment evidence for BCL11A-enhancer CRISPR/Cas9 therapies in thalassemia and sickle cell disease.
+  - Tag: General gene-editing trend
+
+- **p38 MAPK inhibition safeguards genome integrity during gene editing of hematopoietic stem and progenitor cells**
+  - Authors: Vacca R, Della Volpe L, Gualandi N et al.
+  - Journal/Server: Mol Ther
+  - DOI: 10.1016/j.ymthe.2026.09.024 (PMID 42768749)
+  - Summary: Inhibiting p38 MAPK reduces nuclease-induced genotoxicity such as large deletions and chromosomal instability during ex vivo HSPC editing.
+  - Tag: General gene-editing trend
+
+- **FASTOP─Fast Editing Toolkit for Top Expression Sites in Yeast**
+  - Authors: Borah M, Gautron N, Courdavault V et al.
+  - Journal/Server: J Agric Food Chem
+  - DOI: 10.1021/acs.jafc.6c06735 (PMID 42980409)
+  - Summary: A Cas9-assisted toolkit for fast multi-gene integration at eight high-expression genomic loci in S. cerevisiae.
+  - Tag: General gene-editing trend
+
+- **Editing of SpNRAMP3, SpCAX3, and SpHMA3 differentially affects cadmium concentrations and growth responses in Sedum plumbizincicola**
+  - Authors: Wu X, Zhang Y, Mo Y et al.
+  - Journal/Server: J Hazard Mater
+  - DOI: 10.1016/j.jhazmat.2026.144114 (PMID 42987550)
+  - Summary: CRISPR/Cas9 editing of metal-transporter genes in a Cd hyperaccumulator reveals their distinct roles in cadmium homeostasis and tissue allocation.
+  - Tag: General gene-editing trend
+
+- **Generative design of de novo AAV vectors with unique serological profiles**
+  - Authors: Garton M, Chiesa G, Lyu S, Nguyen M, Benjamin J, et al.
+  - Journal/Server: bioRxiv (preprint)
+  - DOI: 10.64898/2026.11.06.764881
+  - Summary: Generative AI design of de novo AAV capsids with distinct serological profiles for gene delivery.
+  - Tag: General gene-editing trend
+
+- **An Accessible and Scalable Pipette-Driven Microfluidic Platform for Lipid Nanoparticle Formulation**
+  - Authors: Takeda YS, Wang F, Gu X, Forster J, Hou H, Hemmati P, et al.
+  - Journal/Server: bioRxiv (preprint)
+  - DOI: 10.64898/2026.11.06.757988
+  - Summary: A disposable pipette-actuated microfluidic mixer for low-volume, scalable LNP formulation screening.
+  - Tag: General gene-editing trend
+
+- **Targeted Deletions Uncover Previously Uncharacterised C1-fixing Cluster Genes as Essential for Autotrophy in Clostridium autoethanogenum**
+  - Authors: Nwaokorie UJ, Vorontsova M, Shaikh KM, Reinmets K, Valgepea K
+  - Journal/Server: bioRxiv (preprint)
+  - DOI: 10.64898/2026.11.07.765054
+  - Summary: Targeted gene deletions in a non-model acetogen identify uncharacterised C1-fixing cluster genes essential for autotrophic growth.
+  - Tag: General gene-editing trend
