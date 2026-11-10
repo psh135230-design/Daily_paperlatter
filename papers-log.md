@@ -2,6 +2,86 @@
 
 ## 2026-11-10
 
+Reviewed 814 papers, selected 10 (including 2 marked ⭐).
+
+Note: third run for this date; entries already recorded in the earlier 2026-11-10 section below were excluded. Sources: bioRxiv + medRxiv preprints posted 2026-11-09 to 2026-11-10 (bioRxiv/medRxiv API) and PubMed articles from the last 7 days (E-utilities).
+
+### ⭐ Core relevance
+
+- **Genome Editing of Mitochondrial Dysfunction in Neurological Disease: Progress and Translational Barriers**
+  - Authors: Sharma R, Niranjan N, Long A et al.
+  - Journal/Server: Yale J Biol Med
+  - DOI: 10.59249/AFKC3347 (PMID 43004989)
+  - Summary: Review of mitochondria-targeted and nuclear-targeted editors for neurological disease, weighing editing capability, delivery constraints and off-target risk.
+  - Tag: ⭐ Core relevance (mitochondrial base editing, editor engineering, extremophile microbiology)
+
+- **Joint protein-DNA language modeling enables prediction and engineering of DNA recognition specificity**
+  - Authors: Xiong Y, Ren J, Wei X, Li X, Li J, Wei W
+  - Journal/Server: bioRxiv
+  - DOI: 10.64898/2026.11.05.763984
+  - Summary: Interaction-aware protein-DNA language models (PDLMs, continued from ESM2) predict and engineer DNA-recognition specificity relevant to genome-editing proteins.
+  - Tag: ⭐ Core relevance (mitochondrial base editing, editor engineering, extremophile microbiology)
+
+### General gene-editing trend
+
+- **MB-CasFire: A Plug-and-Play, Thermostable CRISPR Enzyme for Precise Nucleic Acid Detection**
+  - Authors: Broughton JP, Alpay E, Fantin NJ et al.
+  - Journal/Server: medRxiv
+  - DOI: 10.64898/2026.11.06.26367472
+  - Summary: A Cas12a engineered from a naturally thermostable ortholog enables one-pot isothermal amplification plus CRISPR detection.
+  - Tag: General gene-editing trend
+
+- **A Three-View System for CRISPR-Cas12a crRNA Activity Ranking: When to Ensemble, When Context Matters More**
+  - Authors: Deng T, Lin Z, Lam H, Xu S
+  - Journal/Server: bioRxiv
+  - DOI: 10.64898/2026.11.07.765023
+  - Summary: TriCasRank raises Cas12a crRNA activity-ranking Spearman correlation from 0.741 to 0.821 over a sequence-only ensemble.
+  - Tag: General gene-editing trend
+
+- **Engineering collateral cleavage kinetics: a three-state framework for programmable CRISPR-Cas12 molecular transduction**
+  - Authors: Verma V, Deshmukh R
+  - Journal/Server: Anal Bioanal Chem
+  - DOI: 10.1007/s00216-026-06891-7 (PMID 42975636)
+  - Summary: Proposes a four-rate-constant, three-state kinetic framework to classify and troubleshoot Cas12 trans-cleavage diagnostics.
+  - Tag: General gene-editing trend
+
+- **CRISPR interference-based gene silencing in insects: from functional genomics to prospective insect-pest management applications**
+  - Authors: Saini A, Sharma N, Sharma N et al.
+  - Journal/Server: Mol Biol Rep
+  - DOI: 10.1007/s11033-026-13133-7 (PMID 43007365)
+  - Summary: Reviews CRISPRi/dCas-based silencing in insects as an alternative to RNAi for functional genomics and pest management.
+  - Tag: General gene-editing trend
+
+- **A review-based guide to selecting an appropriate strategy for transgene-free genome editing in plants**
+  - Authors: Kelly ME, Vermerris W
+  - Journal/Server: Genetics
+  - DOI: 10.1093/genetics/iyag299 (PMID 43004748)
+  - Summary: Guide to transient, transgene-free delivery strategies for Cas9-based plant genome editing.
+  - Tag: General gene-editing trend
+
+- **Development of CRISPR_SCD001, an autologous hematopoietic stem cell gene therapy for sickle cell disease**
+  - Authors: DeWitt M, Campo-Fernandez B, Roy S et al.
+  - Journal/Server: Mol Ther
+  - DOI: 10.1016/j.ymthe.2026.09.020 (PMID 42760781)
+  - Summary: Cas9/ssODN HDR correction of the HBB sickle allele in patient CD34+ cells (~22% allele correction) with preclinical genotoxicity and mouse safety data.
+  - Tag: General gene-editing trend
+
+- **Targeting of the oncogenic fusion EWSR1-FLI1 in Ewing sarcoma by CRISPR/dCas9 silencers**
+  - Authors: Taifour S, Wong CW, Wallis C et al.
+  - Journal/Server: Mol Ther
+  - DOI: 10.1016/j.ymthe.2026.08.042 (PMID 42675859)
+  - Summary: dCas9-KRAB epigenetic silencers with targeted delivery selectively repress the EWSR1-FLI1 driver in Ewing sarcoma.
+  - Tag: General gene-editing trend
+
+- **Protocol for the production of high-yielded research-grade AAV vectors in transiently transfected HEK293T cells**
+  - Authors: Duke L, Kantor B
+  - Journal/Server: STAR Protoc
+  - DOI: 10.1016/j.xpro.2026.104938 (PMID 43007872)
+  - Summary: Scalable protocol for producing and titering in vivo-grade AAV used to deliver genome-editing toolkits.
+  - Tag: General gene-editing trend
+
+## 2026-11-10
+
 Reviewed 621 papers, selected 23 (including 4 marked ⭐).
 
 Sources: bioRxiv + medRxiv preprints posted 2026-11-09 to 2026-11-10 (450 reviewed), PubMed articles from the last 7 days matching the editing query (171 reviewed).
