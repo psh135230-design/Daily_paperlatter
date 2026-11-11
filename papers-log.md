@@ -1,5 +1,78 @@
 # Papers Log
 
+## 2026-11-12
+
+Reviewed 509 papers, selected 9 (including 2 marked ⭐).
+
+Note: Sources: bioRxiv + medRxiv preprints posted 2026-11-11 to 2026-11-12 (215 records, bioRxiv/medRxiv API) and PubMed articles from the last 7 days (294 records, E-utilities). The bioRxiv/PubMed MCP servers failed to connect, so the public APIs were used directly. Entries already in earlier sections were excluded.
+
+### ⭐ Core relevance
+
+- **PrEditR: a protein-centric platform for CRISPR-mediated base editor sgRNA design**
+  - Authors: Vásquez-Castro F, Sanchez Solis LD, Myers SA
+  - Journal/Server: Bioinform Adv
+  - DOI: 10.1093/bioadv/vbag323 (PMID 42999912)
+  - Summary: Open-source R tool for high-throughput, protein-centric sgRNA design for base-editor screens of post-translational modification sites, integrating with proteomics outputs.
+  - Tag: ⭐ Core relevance (mitochondrial base editing, editor engineering, extremophile microbiology)
+
+- **Genome-scale base editing reveals the functional effects of variants in yeast**
+  - Authors: Boocock J, Crisman L, Alamo Tapia LA et al.
+  - Journal/Server: bioRxiv
+  - DOI: 10.64898/2026.10.19.760269 (PMID 42995969)
+  - Summary: Genome-scale CRISPR base editing measured growth effects of 308,461 variants in yeast, finding 18,009 significant variants across coding and noncoding regions.
+  - Tag: ⭐ Core relevance (mitochondrial base editing, editor engineering, extremophile microbiology)
+
+### General gene-editing trend
+
+- **A cryptic binding pocket regulates the metal-dependent activity of Cas9**
+  - Authors: Ahsan M, Knight AL, Saha A et al.
+  - Journal/Server: Nat Commun
+  - DOI: 10.1038/s41467-026-78458-0 (PMID 43000520)
+  - Summary: Simulations and NMR show divalent metals activate Cas9's HNH domain via a dynamic metal-binding pocket at the HNH-RuvC interface.
+  - Tag: General gene-editing trend
+
+- **Virus-like particles enable highly efficient gene editing across porcine and avian in vitro, ex vivo, and in ovo models**
+  - Authors: Pauli TM, von Heyl T, Rieblinger B et al.
+  - Journal/Server: PLoS Biol
+  - DOI: 10.1371/journal.pbio.3004105 (PMID 43013686)
+  - Summary: Virus-like particle delivery of editors achieves efficient gene editing in pig and chicken cells, tissues and embryos.
+  - Tag: General gene-editing trend
+
+- **Proteasomal control of anti-CRISPRs for the regulation of CRISPR-Cas9 activity using Cas9-ACROBAT**
+  - Authors: Martin TD, Wang Y, Watson EV et al.
+  - Journal/Server: Cell Rep Methods
+  - DOI: 10.1016/j.crmeth.2026.101649 (PMID 43008730)
+  - Summary: Small-molecule-responsive degron-fused AcrIIA4 gives reversible control of Cas9 cutting, activation and interference to limit off-target effects.
+  - Tag: General gene-editing trend
+
+- **AutoFFinder: A reconfigurable hardware-accelerated platform for multi-guide CRISPR/Cas9 off-target search**
+  - Authors: Yaish O, Tracy T 2nd, Skadron K et al.
+  - Journal/Server: Bioinformatics
+  - DOI: 10.1093/bioinformatics/btag818 (PMID 43009202)
+  - Summary: Hardware-accelerated tool scales genome-wide Cas9 off-target site search across many gRNAs and high edit distances.
+  - Tag: General gene-editing trend
+
+- **High-throughput Eukaryotic Screening of Putative Anti-CRISPR Proteins against SpyCas9 and SauCas9**
+  - Authors: Zheng D, Grieve TR, Fidacaro E et al.
+  - Journal/Server: bioRxiv
+  - DOI: 10.64898/2026.10.20.760491 (PMID 42996047)
+  - Summary: Hundreds of Acr homologs were screened in eukaryotic cells against SpyCas9 and SauCas9 to map Acr family evolution and Cas9-regulator potential.
+  - Tag: General gene-editing trend
+
+- **Pseudomonas aeruginosa R-bodies deliver an ADP deaminase toxin**
+  - Authors: King-Roberts DT, Garakani K, Tao TY et al.
+  - Journal/Server: bioRxiv
+  - DOI: 10.64898/2026.10.21.760852 (PMID 42990220)
+  - Summary: R-bodies extend within amoebae, and a newly identified deaminase toxin, DeaR, contributes to their toxicity.
+  - Tag: General gene-editing trend
+
+- **Beyond Sequence and Structure: Pretraining PLMs on Continuous Biophysical Fields**
+  - Authors: Jiang P, Singharoy A
+  - Journal/Server: bioRxiv
+  - DOI: 10.64898/2026.11.09.765464
+  - Summary: The Biophysical Transformer protein language model adds Poisson-Boltzmann electrostatic potential prediction as a third pretraining signal beside sequence and structure.
+  - Tag: General gene-editing trend
+
 ## 2026-11-10
 
 Reviewed 814 papers, selected 10 (including 2 marked ⭐).
