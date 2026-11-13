@@ -1,5 +1,92 @@
 # Papers Log
 
+## 2026-11-14
+
+Reviewed 861 papers, selected 11 (including 6 marked ⭐).
+
+Note: Sources: bioRxiv + medRxiv preprints posted 2026-11-12 to 2026-11-13 (712 records, bioRxiv/medRxiv API) and PubMed articles from the last 7 days (149 records, E-utilities). The bioRxiv/PubMed MCP servers were unreachable (proxy 403), so the public APIs were used directly. PlayMCP (KakaoTalk) requires authorization, so no message was sent.
+
+### ⭐ Core relevance
+
+- **Comprehensive engineering of the CasX-Editor to generate a therapeutically optimized genome editor**
+  - Authors: Wright AV, Higgins SA, Bailey EJ et al.
+  - Journal/Server: bioRxiv
+  - DOI: 10.64898/2026.11.10.765514
+  - Summary: Iterative molecular engineering of CasX yields a genome editor with higher potency and specificity suited to in vivo delivery in large animals.
+  - Tag: ⭐ Core relevance (mitochondrial base editing, editor engineering, extremophile microbiology)
+
+- **Engineered Miniature ParTasR Enables Efficient PAMless Genome Editing**
+  - Authors: Zhang X, Zhu Q, Zhang Z et al.
+  - Journal/Server: bioRxiv
+  - DOI: 10.64898/2026.11.12.766130
+  - Summary: Structure-guided design plus TREX2 fusion raises compact TIGR-Tas (ParTasR) editing in mammalian cells from 4.29% to 48.94%, beating SpRY.
+  - Tag: ⭐ Core relevance (mitochondrial base editing, editor engineering, extremophile microbiology)
+
+- **Base editing-mediated precision genome engineering in Toxoplasma gondii**
+  - Authors: Liu F, Wu Y, Chen Z et al.
+  - Journal/Server: PLoS Negl Trop Dis
+  - DOI: 10.1371/journal.pntd.0014864 (PMID 43024681)
+  - Summary: First ABE and CBE base-editor platforms in T. gondii enable DSB-free precise point mutations in a non-model parasite.
+  - Tag: ⭐ Core relevance (mitochondrial base editing, editor engineering, extremophile microbiology)
+
+- **Upgrading yeast-based low-carbon biomanufacturing by harnessing a universal in vivo evolution system**
+  - Authors: Duan S, Shi Z, Wang X et al.
+  - Journal/Server: Metab Eng
+  - DOI: 10.1016/j.ymben.2026.102579 (PMID 43009044)
+  - Summary: A Helicase-AID (cytidine deaminase) vector drives genome-wide base-editing evolution across non-conventional yeasts such as Yarrowia, Pichia and Kluyveromyces.
+  - Tag: ⭐ Core relevance (mitochondrial base editing, editor engineering, extremophile microbiology)
+
+- **Application of AI-designed OpenCRISPR-1 for highly efficient gene editing in soybean (Glycine max L.) and Nicotiana benthamiana**
+  - Authors: Nguyen CX, Do PT, Tran TM
+  - Journal/Server: Transgenic Res
+  - DOI: 10.1007/s11248-026-00526-4 (PMID 43018681)
+  - Summary: The AI-designed Cas9-like nuclease OpenCRISPR-1 is shown to mutagenize target genes in soybean and N. benthamiana.
+  - Tag: ⭐ Core relevance (mitochondrial base editing, editor engineering, extremophile microbiology)
+
+- **Archaeal histones coordinate conserved DNA sequence motifs to promote CRISPR adaptive immunity**
+  - Authors: Patel P, Treat AR, Gonzalez R et al.
+  - Journal/Server: Nucleic Acids Res
+  - DOI: 10.1093/nar/gkag1172 (PMID 43006236)
+  - Summary: Analysis of 542 Thermococcales/Methanococcales CRISPR leaders finds 36 conserved motifs that, with histone binding, direct spacer integration in Pyrococcus furiosus.
+  - Tag: ⭐ Core relevance (mitochondrial base editing, editor engineering, extremophile microbiology)
+
+### General gene-editing trend
+
+- **Engineering a High-Fidelity CRISPR-Cas13d System for Targeted RNA Depletion in Plasmodium falciparum**
+  - Authors: Serrano-Duran R, Lopez Farfan DC, Moreno-Mateos MA, Gomez-Diaz E
+  - Journal/Server: bioRxiv
+  - DOI: 10.64898/2026.11.09.765308
+  - Summary: Genomically integrated HF-RfxCas13d provides programmable RNA knockdown in P. falciparum, which lacks native RNAi.
+  - Tag: General gene-editing trend
+
+- **Empirical optimization of dCas12a-based CRISPRi/a for pooled screening in Yarrowia lipolytica**
+  - Authors: Maroc L, Meyvisch L, Smeets P et al.
+  - Journal/Server: bioRxiv
+  - DOI: 10.64898/2026.11.11.766072
+  - Summary: Optimizes dCas12a CRISPRi/a for genome-scale pooled screens in the non-conventional yeast Y. lipolytica.
+  - Tag: General gene-editing trend
+
+- **Virus-like particles enable highly efficient gene editing across porcine and avian in vitro, ex vivo, and in ovo models**
+  - Authors: Pauli TM, von Heyl T, Rieblinger B et al.
+  - Journal/Server: PLoS Biol
+  - DOI: 10.1371/journal.pbio.3004105 (PMID 43013686)
+  - Summary: VLP-based delivery of editors achieves efficient editing in pig and chicken cells and chicken embryos.
+  - Tag: General gene-editing trend
+
+- **AutoFFinder: A reconfigurable hardware-accelerated platform for multi-guide CRISPR/Cas9 off-target search**
+  - Authors: Yaish O, Tracy T, Skadron K et al.
+  - Journal/Server: Bioinformatics
+  - DOI: 10.1093/bioinformatics/btag818 (PMID 43009202)
+  - Summary: A hardware-accelerated tool scales genome-wide Cas9 off-target site searches across many guides and high edit distances.
+  - Tag: General gene-editing trend
+
+- **Proteasomal control of anti-CRISPRs for the regulation of CRISPR-Cas9 activity using Cas9-ACROBAT**
+  - Authors: Martin TD, Wang Y, Watson EV et al.
+  - Journal/Server: Cell Rep Methods
+  - DOI: 10.1016/j.crmeth.2026.101649 (PMID 43008730)
+  - Summary: Small-molecule-controlled stability of AcrIIA4 gives reversible, tight regulation of Cas9 activity to limit off-target effects.
+  - Tag: General gene-editing trend
+
 ## 2026-11-10
 
 Reviewed 814 papers, selected 10 (including 2 marked ⭐).
