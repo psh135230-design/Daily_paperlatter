@@ -1,5 +1,99 @@
 # Papers Log
 
+## 2026-11-15
+
+Reviewed 170 papers, selected 12 (including 3 marked ⭐).
+
+Note: sources were bioRxiv + medRxiv preprints posted 2026-11-14 to 2026-11-15 (34 records, weekend window; none passed the filter) and PubMed articles from the last 7 days (136 records). The bioRxiv/PubMed MCP servers were unavailable, so the public APIs were used.
+
+### ⭐ Core relevance
+
+- **Base editing-mediated precision genome engineering in Toxoplasma gondii**
+  - Authors: Liu F, Wu Y, Chen Z et al.
+  - Journal/Server: PLoS neglected tropical diseases
+  - DOI: 10.1371/journal.pntd.0014864 (PMID 43024681)
+  - Summary: Established the first two base-editor platforms in Toxoplasma gondii, enabling DSB-free precision genome engineering in this parasite.
+  - Tag: ⭐ Core relevance (mitochondrial base editing, editor engineering, extremophile microbiology)
+
+- **Upgrading yeast-based low-carbon biomanufacturing by harnessing a universal in vivo evolution system**
+  - Authors: Duan S, Shi Z, Wang X et al.
+  - Journal/Server: Metabolic engineering
+  - DOI: 10.1016/j.ymben.2026.102579 (PMID 43009044)
+  - Summary: A Helicase-AID (cytidine deaminase) plasmid enables genome-wide base-editing-driven in vivo evolution across non-conventional yeasts for biomanufacturing traits.
+  - Tag: ⭐ Core relevance (mitochondrial base editing, editor engineering, extremophile microbiology)
+
+- **Application of AI-designed OpenCRISPR-1 for highly efficient gene editing in soybean (Glycine max L.) and Nicotiana benthamiana**
+  - Authors: Nguyen CX, Do PT, Tran TM
+  - Journal/Server: Transgenic research
+  - DOI: 10.1007/s11248-026-00526-4 (PMID 43018681)
+  - Summary: The AI-designed Cas9-like nuclease OpenCRISPR-1 achieves efficient targeted mutagenesis in soybean and N. benthamiana.
+  - Tag: ⭐ Core relevance (mitochondrial base editing, editor engineering, extremophile microbiology)
+
+### General gene-editing trend
+
+- **Virus-like particles enable highly efficient gene editing across porcine and avian in vitro, ex vivo, and in ovo models**
+  - Authors: Pauli TM, von Heyl T, Rieblinger B et al.
+  - Journal/Server: PLoS biology
+  - DOI: 10.1371/journal.pbio.3004105 (PMID 43013686)
+  - Summary: Virus-like particles deliver gene-editing machinery efficiently into porcine and avian in vitro, ex vivo and in ovo models.
+  - Tag: General gene-editing trend
+
+- **Clustered Regularly Interspaced Palindromic Repeats-Cas Genome-Editing Systems in Filamentous Fungi: Current Tools, Optimization Strategies, and Future Perspectives**
+  - Authors: Du R, Wang W, Xie J et al.
+  - Journal/Server: Journal of agricultural and food chemistry
+  - DOI: 10.1021/acs.jafc.6c12748 (PMID 43012712)
+  - Summary: Review of CRISPR-Cas genome-editing tools and optimization strategies in filamentous fungi, a non-model microbial chassis.
+  - Tag: General gene-editing trend
+
+- **CRISPR Technology: From Bench to Bedside Applications**
+  - Authors: Ma X, Li L, Sun Y
+  - Journal/Server: MedComm
+  - DOI: 10.1002/mco2.71011 (PMID 43011237)
+  - Summary: Review of the CRISPR toolkit (base/prime editors, transposases, Cas12/Cas13) from bench to clinical applications.
+  - Tag: General gene-editing trend
+
+- **Stimuli-responsive CRISPR-based genome editing delivery system for cancer treatment: A review of fundamentals and applications**
+  - Authors: Jiang Y, Sun R, Zhang J et al.
+  - Journal/Server: Journal of controlled release : official journal of the Controlled Release Society
+  - DOI: 10.1016/j.jconrel.2026.115541 (PMID 43009024)
+  - Summary: Review of stimuli-responsive delivery systems for CRISPR genome editing in cancer therapy.
+  - Tag: General gene-editing trend
+
+- **Proteasomal control of anti-CRISPRs for the regulation of CRISPR-Cas9 activity using Cas9-ACROBAT**
+  - Authors: Martin TD, Wang Y, Watson EV et al.
+  - Journal/Server: Cell reports methods
+  - DOI: 10.1016/j.crmeth.2026.101649 (PMID 43008730)
+  - Summary: Cas9-ACROBAT uses small-molecule-controlled degradation of anti-CRISPR AcrIIA4 to reversibly regulate Cas9 activity and limit off-target effects.
+  - Tag: General gene-editing trend
+
+- **AutoFFinder: A reconfigurable hardware-accelerated platform for multi-guide CRISPR/Cas9 off-target search**
+  - Authors: Yaish O, Tracy T, Skadron K et al.
+  - Journal/Server: Bioinformatics (Oxford, England)
+  - DOI: 10.1093/bioinformatics/btag818 (PMID 43009202)
+  - Summary: AutoFFinder is a hardware-accelerated platform for fast multi-guide CRISPR/Cas9 off-target site search.
+  - Tag: General gene-editing trend
+
+- **Tumor-Specific Gene Editing Enhances Cancer Immunogenicity through Succinate Metabolism-Mediated MHC-I Reprogramming**
+  - Authors: Yang H, Zhang H, Zhao Z et al.
+  - Journal/Server: Journal of the American Chemical Society
+  - DOI: 10.1021/jacs.6c14840 (PMID 43013067)
+  - Summary: A dual tumor-specific CRISPR/Cas9 system knocks out Sdhc to reactivate MHC-I and boost cancer immunogenicity with reduced off-target toxicity.
+  - Tag: General gene-editing trend
+
+- **Gene Therapy: Advances in Delivery Systems, Genome Editing Technologies, and Applications in Human and Veterinary Medicine**
+  - Authors: Chandran D, Appanasamy R, Mohankumar P et al.
+  - Journal/Server: Current gene therapy
+  - DOI: 10.2174/0115665232527300261105051202 (PMID 43023515)
+  - Summary: Review of gene-therapy delivery systems and genome-editing technologies in human and veterinary medicine.
+  - Tag: General gene-editing trend
+
+- **Functional restoration of immune defects in STAT1 gain-of-function disease after stem cell gene editing**
+  - Authors: Torrance R, Orf K, White N et al.
+  - Journal/Server: Blood
+  - DOI: 10.1182/blood.2025032242 (PMID 42550765)
+  - Summary: Stem-cell gene editing (incl. base editing) corrects STAT1 gain-of-function and restores immune function.
+  - Tag: General gene-editing trend
+
 ## 2026-11-10
 
 Reviewed 814 papers, selected 10 (including 2 marked ⭐).
