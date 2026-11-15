@@ -1,5 +1,99 @@
 # Papers Log
 
+## 2026-11-16
+
+Reviewed 176 papers, selected 12 (including 5 marked ⭐).
+
+Note: Sources: bioRxiv + medRxiv preprints posted 2026-11-15 to 2026-11-16 (12 records; none matched the keyword groups) and PubMed articles from the last 7 days (164 records, E-utilities). The bioRxiv/PubMed MCP servers failed to connect, so the public APIs were used directly. No PMID/DOI repeats an earlier section.
+
+### ⭐ Core relevance
+
+- **Base editing-mediated precision genome engineering in Toxoplasma gondii**
+  - Authors: Liu F, Wu Y, Chen Z et al.
+  - Journal/Server: PLoS Negl Trop Dis
+  - DOI: 10.1371/journal.pntd.0014864 (PMID 43024681)
+  - Summary: First adenine and cytosine base editor platforms in the non-model parasite T. gondii, enabling precise point mutations without double-strand breaks.
+  - Tag: ⭐ Core relevance (mitochondrial base editing, editor engineering, extremophile microbiology)
+
+- **Application of AI-designed OpenCRISPR-1 for highly efficient gene editing in soybean (Glycine max L.) and Nicotiana benthamiana**
+  - Authors: Nguyen CX, Do PT, Tran TM et al.
+  - Journal/Server: Transgenic Res
+  - DOI: 10.1007/s11248-026-00526-4 (PMID 43018681)
+  - Summary: Shows the fully AI-designed Cas9-like nuclease OpenCRISPR-1 achieves efficient targeted mutagenesis in soybean and N. benthamiana.
+  - Tag: ⭐ Core relevance (mitochondrial base editing, editor engineering, extremophile microbiology)
+
+- **Upgrading yeast-based low-carbon biomanufacturing by harnessing a universal in vivo evolution system**
+  - Authors: Duan S, Shi Z, Wang X et al.
+  - Journal/Server: Metab Eng
+  - DOI: 10.1016/j.ymben.2026.102579 (PMID 43009044)
+  - Summary: A Helicase-AID (cytidine deaminase) plasmid enables genome-wide base-editing evolution across non-conventional yeasts such as Yarrowia, Pichia and Kluyveromyces.
+  - Tag: ⭐ Core relevance (mitochondrial base editing, editor engineering, extremophile microbiology)
+
+- **HU promotes fidelity and leader-repeat integration during CRISPR adaptation in the type III-A system of Thermotoga profunda**
+  - Authors: Seimel M, Willkomm S, Grohmann D
+  - Journal/Server: microLife
+  - DOI: 10.1093/femsml/uqag038 (PMID 43034631)
+  - Summary: The DNA-bending protein HU supports accurate leader-proximal spacer integration in a thermophilic bacterium's type III-A CRISPR system.
+  - Tag: ⭐ Core relevance (mitochondrial base editing, editor engineering, extremophile microbiology)
+
+- **Archaeal histones coordinate conserved DNA sequence motifs to promote CRISPR adaptive immunity**
+  - Authors: Patel P, Treat AR, Gonzalez R et al.
+  - Journal/Server: Nucleic Acids Res
+  - DOI: 10.1093/nar/gkag1172 (PMID 43006236)
+  - Summary: Analysis of 542 Thermococcales/Methanococcales CRISPR leaders finds 36 conserved motifs that, with histone binding, direct spacer integration in Pyrococcus furiosus.
+  - Tag: ⭐ Core relevance (mitochondrial base editing, editor engineering, extremophile microbiology)
+
+### General gene-editing trend
+
+- **Virus-like particles enable highly efficient gene editing across porcine and avian in vitro, ex vivo, and in ovo models**
+  - Authors: Pauli TM, von Heyl T, Rieblinger B et al.
+  - Journal/Server: PLoS Biol
+  - DOI: 10.1371/journal.pbio.3004105 (PMID 43013686)
+  - Summary: Virus-like particles deliver editors efficiently into pig and chicken cells, tissues and embryos.
+  - Tag: General gene-editing trend
+
+- **Proteasomal control of anti-CRISPRs for the regulation of CRISPR-Cas9 activity using Cas9-ACROBAT**
+  - Authors: Martin TD, Wang Y, Watson EV et al.
+  - Journal/Server: Cell Rep Methods
+  - DOI: 10.1016/j.crmeth.2026.101649 (PMID 43008730)
+  - Summary: Small-molecule-controlled stability of AcrIIA4 gives reversible, tight control of Cas9 activity to limit off-target effects.
+  - Tag: General gene-editing trend
+
+- **AutoFFinder: A reconfigurable hardware-accelerated platform for multi-guide CRISPR/Cas9 off-target search**
+  - Authors: Yaish O, Tracy T, Skadron K et al.
+  - Journal/Server: Bioinformatics
+  - DOI: 10.1093/bioinformatics/btag818 (PMID 43009202)
+  - Summary: Hardware-accelerated tool scales genome-wide Cas9 off-target site searches across many guides and edit distances.
+  - Tag: General gene-editing trend
+
+- **Clustered Regularly Interspaced Palindromic Repeats-Cas Genome-Editing Systems in Filamentous Fungi: Current Tools, Optimization Strategies, and Future Perspectives**
+  - Authors: Du R, Wang W, Xie J et al.
+  - Journal/Server: J Agric Food Chem
+  - DOI: 10.1021/acs.jafc.6c12748 (PMID 43012712)
+  - Summary: Review of Cre-loxP, TALEN and CRISPR-Cas tools and optimization strategies for genome engineering in non-model filamentous fungi.
+  - Tag: General gene-editing trend
+
+- **CRISPR Technology: From Bench to Bedside Applications**
+  - Authors: Ma X, Li L, Sun Y
+  - Journal/Server: MedComm
+  - DOI: 10.1002/mco2.71011 (PMID 43011237)
+  - Summary: Review of the CRISPR toolkit, including base/prime editors, CRISPR-associated transposases and Cas12/Cas13, and its clinical progress.
+  - Tag: General gene-editing trend
+
+- **Gene Therapy: Advances in Delivery Systems, Genome Editing Technologies, and Applications in Human and Veterinary Medicine**
+  - Authors: Chandran D, Appanasamy R, Mohankumar P et al.
+  - Journal/Server: Curr Gene Ther
+  - DOI: 10.2174/0115665232527300261105051202 (PMID 43023515)
+  - Summary: Review of viral and non-viral delivery systems and genome-editing technologies in human and veterinary gene therapy.
+  - Tag: General gene-editing trend
+
+- **Stimuli-responsive CRISPR-based genome editing delivery system for cancer treatment: A review of fundamentals and applications**
+  - Authors: Jiang Y, Sun R, Zhang J et al.
+  - Journal/Server: J Control Release
+  - DOI: 10.1016/j.jconrel.2026.115541 (PMID 43009024)
+  - Summary: Review of stimuli-responsive nanocarriers delivering CRISPR nucleases, CRISPRi, base and prime editors for cancer therapy.
+  - Tag: General gene-editing trend
+
 ## 2026-11-10
 
 Reviewed 814 papers, selected 10 (including 2 marked ⭐).
