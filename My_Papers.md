@@ -2,6 +2,22 @@
 
 매일 올라오는 자동화 논문(Daily_Paper_*.md) 중에서 수현 님이 직접 골라 저장하라고 한 논문만 모아 두는 목록입니다. 새로 고르시면 이 파일에 계속 추가합니다. 최신 항목이 위에 옵니다.
 
+### Engineered integrase ePai enables efficient large DNA fragment integration
+- 저장일: 2026-11-26 (출처: Daily_Paper_11-26-26.md)
+- 저자: Chen Z, Zhuang K, Wang M, Sun A, Fu P, Chen X, Zhang N, Zhu M, Zhao J, Zhang X, Gao G
+- 저널: Nature Chemical Biology (2026)
+- DOI: 10.1038/s41589-026-02383-y
+- 링크: https://doi.org/10.1038/s41589-026-02383-y
+- 요약: 생물정보학 기반으로 세린 인테그레이스 Pai를 개량한 ePai입니다. 프라임 에디팅과 결합한 PASSIGE-ePai로 최대 22 kb 공여 DNA를 삽입하며, Bxb1보다 최대 10.6배 높은 효율과 99.1% 이상의 삽입 정확도를 보였습니다.
+
+### Transient RNA-Based AID-Cas9 Editing Enables Efficient Gene and Splice-Site Modification
+- 저장일: 2026-11-26 (출처: Daily_Paper_11-26-26.md)
+- 저자: Liang Z, Miao C, Zheng J, Chang X
+- 저널: Cells (2026)
+- DOI: 10.3390/cells15222093
+- 링크: https://doi.org/10.3390/cells15222093
+- 요약: AID 유래 TAM 화학을 쓰는 전(全) RNA 형태의 사이토신 염기 편집기입니다. 용량과 UTR을 최적화해 DNA로 코딩된 편집기 없이도 사람 1차 CD8+ T 세포의 내재 유전자좌에서 효율적인 C-to-T 전환과 스플라이스 부위 파괴를 달성했습니다.
+
 ### Problem-Driven Innovation in Genome Editing: From Programmable Nucleases to DSB-Free Precision Editors and the Path to Clinical Translation
 - 저장일: 2026-11-24 (출처: 직접 전달)
 - 저자: Park JY, Lee KS, Kim CU
